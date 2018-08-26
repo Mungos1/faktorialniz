@@ -1,0 +1,7 @@
+c:\users\stefani\source\repos\FaktorialNiz\FaktorialNiz\bin\Debug\FaktorialNiz.exe.config
+c:\users\stefani\source\repos\FaktorialNiz\FaktorialNiz\bin\Debug\FaktorialNiz.exe
+c:\users\stefani\source\repos\FaktorialNiz\FaktorialNiz\bin\Debug\FaktorialNiz.pdb
+c:\users\stefani\source\repos\FaktorialNiz\FaktorialNiz\obj\Debug\FaktorialNiz.csprojAssemblyReference.cache
+c:\users\stefani\source\repos\FaktorialNiz\FaktorialNiz\obj\Debug\FaktorialNiz.csproj.CoreCompileInputs.cache
+c:\users\stefani\source\repos\FaktorialNiz\FaktorialNiz\obj\Debug\FaktorialNiz.exe
+c:\users\stefani\source\repos\FaktorialNiz\FaktorialNiz\obj\Debug\FaktorialNiz.pdb
